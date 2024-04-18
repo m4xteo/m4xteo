@@ -1,10 +1,19 @@
-- 👋 Hi, I’m @m4xteo
-- 👀 I’m interested in Machine Learning, Artificial Intelligence, Networking, Cryptography, Cybersecurity and many more!
-- 🌱 I’m currently learning plenty of things..
-- 💞️ I’m looking to collaborate on interesting projects, primarily ones that can benefit everyone.
-- 📫 How to reach me (soon!)
+Hi there, I'm Matt 👋
+👨‍💻 About Me
+🎓 Focus on Machine Learning, Artificial Intelligence, Networking, Cryptography, and Cybersecurity.
+🔍 Passionate about exploring the intersections of technology and its impact on society.
+🌱 Always eager to learn and dive deep into new technologies and concepts.
 
-<!---
-m4xteo/m4xteo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🚀 What I'm Up To
+- Developing local LLM models and testing optimizations (with low-cpu machines)
+- Developing antimalware detection methods
+- Programming things that pop in my head
+
+📚 Currently expanding my knowledge in various domains, from advanced ML algorithms to blockchain technology.
+💡 Actively working on personal projects that challenge and broaden my skill set.
+🤝 Seeking opportunities to collaborate on projects that aim to make a positive difference in the world.
+
+💬 Get in Touch
+📫 Email: (soon)
+
+Let's connect and build something amazing together! 🌟
