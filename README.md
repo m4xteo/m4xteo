@@ -10,10 +10,13 @@ Hi there, I'm Matt 👋
 - Programming things that pop in my head
 
 📚 Currently expanding my knowledge in various domains, from advanced ML algorithms to blockchain technology.
+
 💡 Actively working on personal projects that challenge and broaden my skill set.
+
 🤝 Seeking opportunities to collaborate on projects that aim to make a positive difference in the world.
 
 💬 Get in Touch
+
 📫 Email: (soon)
 
 Let's connect and build something amazing together! 🌟
